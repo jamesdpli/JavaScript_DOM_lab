@@ -35,7 +35,7 @@
 
 ![example](events_start/images/on_load-image.gif)
 
-### _7_on_key_down__up-input_field.html
+### _7_on_key_down__up-input_field.html ✅
 
 ![example](events_start/images/on_key_down__up-input_field.gif)
 
