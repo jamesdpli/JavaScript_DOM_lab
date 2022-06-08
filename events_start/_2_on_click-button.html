@@ -8,6 +8,7 @@
         TODO
         - display Date in the "date" paragraph
       */
+     document.querySelector("#date").innerText = Date();
     }
   </script>
 </head>
@@ -18,7 +19,7 @@
   <p id="date"></p>
 
   <!-- TODO add onclick event to call displayDate() -->
-  <button type="button">Click me to display Date.</button>
+  <button onclick="displayDate()" type="button">Click me to display Date.</button>
 
 </body>
 
