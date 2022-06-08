@@ -5,7 +5,7 @@
 
   <h2>JavaScript HTML Events - on change</h2>
   <!-- TODO Use onchange event to call the upperCase() function-->
-  Enter a text: <input type="text" id="aText">
+  Enter a text: <input onfocusout="upperCase()" type="text" id="aText">
   <p>When you leave the input field, the text is transformed to upper case.</p>
 
   <script>
@@ -14,9 +14,19 @@
         TODO Implement the function: 
         change the text inside the input element to upper case.
       */
+      let inputTextToUpper = document.getElementById("aText").value.toUpperCase();
+      document.getElementById("aText").value = inputTextToUpper;
     }
   </script>
 
 </body>
 
 </html>
+
+<!-- 
+  The onfocusout event occurs when an element is about to lose focus.
+
+Tip: The onfocusout event is similar to the onblur event. The main difference is that the onblur event does not bubble. Therefore, if you want to find out whether an element or its child loses focus, you should use the onfocusout event.
+
+Tip: The onfocusout event is the opposite of the onfocusin event.
+ -->
