@@ -27,7 +27,7 @@
 
 ![example](events_start/images/on_submit__on_reset-input_field.gif)
 
-### _5_mouse-over_mouse-out
+### _5_mouse-over_mouse-out ✅
 
 ![example](events_start/images/mouse_over_out.gif)
 
