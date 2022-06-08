@@ -23,7 +23,7 @@
 
 ![example](events_start/images/on_load_error-image.gif)
 
-### _4_on_submit__on_reset-input-field.html
+### _4_on_submit__on_reset-input-field.html ✅
 
 ![example](events_start/images/on_submit__on_reset-input_field.gif)
 
