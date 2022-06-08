@@ -39,7 +39,7 @@
 
 ![example](events_start/images/on_key_down__up-input_field.gif)
 
-### _8_mouse-move_mouse-out.html
+### _8_mouse-move_mouse-out.html ✅
 
 ![example](events_start/images/mouse_move_out.gif)
 

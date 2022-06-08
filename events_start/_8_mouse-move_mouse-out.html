@@ -9,6 +9,9 @@
                 - get x, get y
                 - diplay the values in coorvalues paragraph
             */
+           let posY = event.clientY;
+           let posX = event.clientX;
+           document.querySelector("#coorvalues").innerText = `Coordinated [${posX}, ${posY}]`;
         }
 
         function clearCoor() {
@@ -16,6 +19,7 @@
                 TODO implement the function:
                 - clear coorvalues paragraph
             */
+           document.querySelector("#coorvalues").innerText = "";
         }
     </script>
 </head>
