@@ -31,7 +31,7 @@
 
 ![example](events_start/images/mouse_over_out.gif)
 
-### _6_on_load-image.html
+### _6_on_load-image.html ✅
 
 ![example](events_start/images/on_load-image.gif)
 
