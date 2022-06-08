@@ -11,7 +11,7 @@
 ## Below are examples of what to expect when a task is delivered.
 
 
-### _1_on_double_click-button.html
+### _1_on_double_click-button.html ✅
 
 ![example](events_start/images/on_double_click-button.gif)
 
