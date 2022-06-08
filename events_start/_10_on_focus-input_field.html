@@ -9,6 +9,9 @@
         Implement the function:
         change background color to yellow
       */
+     let inputField = document.querySelector(".input-field");
+     inputField.style.backgroundColor = "yellow";
+     console.log(inputField);
     }
   </script>
 </head>
@@ -17,7 +20,7 @@
 
   <h2>JavaScript HTML Events - on focus</h2>
 <!-- TODO Use onfocus event to call the changeBackgroundColor(element) function-->
-  Enter your name: <input type="text">
+  Enter your name: <input type="text" class="input-field" onfocus="changeBackgroundColor()">
 
   <p>When the input field gets focus, the background-color changes</p>
 </body>
