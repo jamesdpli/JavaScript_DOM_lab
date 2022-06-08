@@ -15,11 +15,11 @@
 
 ![example](events_start/images/on_double_click-button.gif)
 
-### _2_on_click-button.html
+### _2_on_click-button.html ✅
 
 ![example](events_start/images/on_click-button.gif)
 
-### _3_on_load_error-image.html
+### _3_on_load_error-image.html ✅
 
 ![example](events_start/images/on_load_error-image.gif)
 
