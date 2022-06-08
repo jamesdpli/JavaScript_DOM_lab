@@ -52,7 +52,7 @@
 
 ![example](events_start/images/on_focus-input_field.gif)
 
-### _11_on_select-input_field.html
+### _11_on_select-input_field.html ✅
 
 ![example](events_start/images/on_select.gif)
 
